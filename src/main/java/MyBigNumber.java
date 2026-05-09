@@ -6,9 +6,12 @@ public class MyBigNumber {
 
         int i = stn1.length() - 1;
         int j = stn2.length() - 1;
-
+        ////123
         int carry = 0;
-
+        //123
+        //sadasdas/
+        //asdasd
+        ///asdasdasdasd
         while (i >= 0 || j >= 0 || carry > 0) {
 
             int digit1 = 0;
